@@ -3,4 +3,4 @@
 
 ###Task 1
 
-<img src="Task1.jpg">
+<img src="Task1.JPG">
