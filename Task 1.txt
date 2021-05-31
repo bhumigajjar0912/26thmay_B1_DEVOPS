@@ -1,0 +1,2 @@
+sudo useradd -m user1
+sudo userdel -r user1
