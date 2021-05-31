@@ -11,6 +11,5 @@ sudo userdel -r user1
   Add user with specific shell
    ``` 
    sudo useradd -m -s /bin/bash user2
-
    ```
  
