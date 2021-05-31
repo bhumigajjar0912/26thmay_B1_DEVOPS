@@ -1,0 +1,4 @@
+1. add user with specific shell
+
+sudo useradd -m -s /bin/bash user2
+
