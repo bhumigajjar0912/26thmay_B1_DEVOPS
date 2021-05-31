@@ -8,7 +8,12 @@ sudo useradd -m user1
 sudo userdel -r user1
 ```
 - Task 2
-  -   Add user with specific shell
--   ```
--   ```
--   
+  - Add user with specific shell
+ ```
+ ```
+  - Disbale user's login
+ ```
+ ```
+  - user with only 'date' command
+ ```
+ ```
