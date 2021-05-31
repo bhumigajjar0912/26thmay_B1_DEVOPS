@@ -4,6 +4,7 @@
 
 - Task 1
 ```
-Task 1.txt
+sudo useradd -m user1
+sudo userdel -r user1
 ```
 - Task 2
