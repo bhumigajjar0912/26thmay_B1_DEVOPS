@@ -9,11 +9,6 @@ sudo userdel -r user1
 ```
 - Task 2
   - Add user with specific shell
- ```
- ```
+  - User with only 'date' command
   - Disbale user's login
- ```
- ```
-  - user with only 'date' command
- ```
- ```
+ 
