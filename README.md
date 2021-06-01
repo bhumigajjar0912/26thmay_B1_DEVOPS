@@ -1,3 +1,16 @@
 # 26thmay_B1_DEVOPS
 
-All the tasks and assignments are submitted in this repository day wise.
+## day 6
+- Task 1
+  ```
+  sudo adduser test
+  ```
+- Task 2
+  ```
+  mkdir welcome
+  sudo chgrp lnb welcome
+  ```
+- Task 3
+  ```
+  
+  ```
