@@ -1,1 +1,4 @@
 sudo adduser test
+sudo su test
+cd Desktop
+
