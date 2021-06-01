@@ -4,6 +4,8 @@
 - Task 1
   ```
   sudo adduser test
+  sudo su test
+  cd Desktop
   ```
 - Task 2
   ```
