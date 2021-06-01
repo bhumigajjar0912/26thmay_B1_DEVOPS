@@ -1,0 +1,3 @@
+sudo groupadd lnb
+mkdir welcome
+sudo chgrp lnb welcome

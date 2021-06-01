@@ -1,0 +1,6 @@
+sudo useradd -m u1
+sudo useradd -m u1
+sudo useradd -m u1
+sudo usermod -ag lnb u1
+sudo usermod -ag lnb u1
+sudo usermod -ag lnb u1
