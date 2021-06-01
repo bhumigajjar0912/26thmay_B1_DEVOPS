@@ -21,6 +21,6 @@
   sudo usermod -ag lnb u1
   ```
 - Task 4
-```
-chmod 774 welcome/
-```
+  ```
+  chmod 774 welcome/
+  ```
