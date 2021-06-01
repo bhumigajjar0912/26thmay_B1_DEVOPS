@@ -18,9 +18,9 @@
   sudo useradd -m u1
   sudo useradd -m u2
   sudo useradd -m u3
-  sudo usermod -ag lnb u1
-  sudo usermod -ag lnb u2
-  sudo usermod -ag lnb u3
+  sudo usermod -aG lnb u1
+  sudo usermod -aG lnb u2
+  sudo usermod -aG lnb u3
   ```
 - Task 4
   ```
