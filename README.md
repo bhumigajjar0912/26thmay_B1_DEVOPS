@@ -1,3 +1,6 @@
 # 26thmay_B1_DEVOPS
 
-All the tasks and assignments are submitted in this repository day wise.
+# Task 1: Change hostname of the machine
+```
+sudo hostnamectl set-hostname Virtual-box
+```
