@@ -1,3 +1,11 @@
 # 26thmay_B1_DEVOPS
-
-All the tasks and assignments are submitted in this repository day wise.
+## day 9
+1. Task 1
+  ```
+  Login from Mobile:
+  <phoenix@192.168.1.9>
+  ```
+  <img src='Mobile terminal.jpeg'>
+2. Task 2
+  ```
+  ```
