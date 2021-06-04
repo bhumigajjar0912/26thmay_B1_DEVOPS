@@ -5,7 +5,7 @@
   Login from Mobile:
   <phoenix@192.168.1.9>
   ```
-  <img src='Mobile terminal.jpeg'>
+  <img src='Mobile terminal.jpeg' width='100' heidht='100'>
 2. Task 2
   ```
   ```
