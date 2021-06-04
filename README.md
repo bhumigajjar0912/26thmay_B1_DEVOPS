@@ -8,4 +8,5 @@
   <img src='Mobile terminal.jpeg' width='400' heidht='800'>
 2. Task 2
   ```
+  
   ```
