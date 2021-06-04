@@ -8,5 +8,8 @@
   <img src='Mobile terminal.jpeg' width='400' heidht='800'>
 2. Task 2
   ```
-  
+  $ vim /etc/ssh.sshd_config
+  //change port = 22
+  $ systemctl restart sshd.service
+
   ```
