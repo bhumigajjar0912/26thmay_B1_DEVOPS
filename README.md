@@ -5,7 +5,7 @@
   Login from Mobile:
   <phoenix@192.168.1.9>
   ```
-  <img src='Mobile terminal.jpeg' width='400' heidht='600'>
+  <img src='Mobile terminal.jpeg' width='350' heidht='600'>
 - Task 2
   ```
   $ vim /etc/ssh.sshd_config
