@@ -13,6 +13,6 @@
   $ systemctl restart sshd.service
 
   //on client machine:
-  shh phoenix@192.168.1.9 -23
+  shh phoenix@192.168.1.9 -p 23
   ```
   
