@@ -4,3 +4,7 @@
 ```
 sudo hostnamectl set-hostname Virtual-box
 ```
+### Task 2: Swith from Graphical to terminal window
+```
+Ctrl + Alt + F3 
+```
