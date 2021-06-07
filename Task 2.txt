@@ -1,0 +1,2 @@
+From graphical to terminal window
+ctrl+alt+F3
