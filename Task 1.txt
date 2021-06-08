@@ -1,0 +1,2 @@
+$ mkdir /mnt/welcome
+$ mount /dev/xvdf1 /mnt/welcome
