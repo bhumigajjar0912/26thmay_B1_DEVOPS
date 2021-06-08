@@ -6,4 +6,4 @@
 <img src="Terminal.JPG">
 
 ### Directories
-<img src="Directory.JPG">
+<img src="Directory.JPG" width="500">
