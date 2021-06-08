@@ -10,7 +10,7 @@ $ mkdir /mnt/new
 
 ```
 Attach by selecting the volume and Clicking 'Attach Volume'
-Then Select the instance in wich you want to attach
+Then Select the instance in which you want to attach
 
 To see the voume in terminal
 $ fdisk -l
