@@ -43,3 +43,7 @@ $ fdisk -l
     ```
     $ mount /dev/xvdf1 /mnt/new
     ```
+4. Install Apache web server
+```
+$ sudo apt install apache2
+```
