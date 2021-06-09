@@ -47,3 +47,10 @@ $ fdisk -l
 ```
 $ sudo apt install apache2
 ```
+5. Changing root dir
+```
+$ cd /etc/apache2/sites-available
+$ vim 000-default.conf
+=> Change the value of DocumentRoot to /mnt/new
+$ sudo service apache2 restart
+```
