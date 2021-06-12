@@ -1,4 +1,13 @@
 $ cd /etc/apache2/sites-available
 $ vim 000-default.conf
 => Change the value of DocumentRoot to /mnt/new
+$ cd ..
+$ vim apache2.config
+>>>Update as follows
+ <Directory />
+     Options Indexes FollowSymLinks
+     AllowOverride All
+     Require all denied
+ </Directory>
+
 $ sudo service apache2 restart
