@@ -55,10 +55,10 @@ $ vim 000-default.conf
 $ cd ..
 $ vim apache2.config
 >>>Update as follows
- <Directory />
-     Options Indexes FollowSymLinks
+<Directory />
+     Options Indexes FollowSymLinks Includes ExecCGI
      AllowOverride All
-     Require all denied
+     Require all granted
  </Directory>
 $ sudo service apache2 restart
 ```
