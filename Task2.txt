@@ -1,0 +1,4 @@
+Task 2
+$ vim index (write 'HI LNB' in it)
+$ cd ..
+$ umount welcome

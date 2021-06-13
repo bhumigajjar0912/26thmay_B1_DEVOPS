@@ -1,2 +1,8 @@
-$ mkdir /mnt/welcome
-$ mount /dev/xvdf1 /mnt/welcome
+Attach the volume to first instance
+$ fdisk /dev/xvdf
+$ mkfs.xfs /dev/xvdf1
+$ mkdir welcome
+$ mount /dev/xvdf1 welcome
+
+
+
