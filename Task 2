@@ -1,0 +1,4 @@
+Task1
+
+$ docker run -it --name example ubuntu:20.04 date
+  Tue Jun 22 15:58:26 UTC 2021
